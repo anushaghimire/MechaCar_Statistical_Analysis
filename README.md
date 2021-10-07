@@ -21,6 +21,8 @@ Similarly if we look at the another table that has individual lot summary we can
 
 ## Deliverable 3
 ## T-Tests on Suspension Coils
+### Briefly summarize your interpretation and findings for the t-test results
+- 
 
 ## Deliverable 4
 ## ## Study Design: MechaCar vs Competition
