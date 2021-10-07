@@ -15,6 +15,10 @@ The slope of the linear model is not zero because the p value is much less than 
 ## Deliverable 2
 ## Summary Statistics on Suspension Coils
 
+**The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
+According to the statistical summary table for all manufacturing lots we can see that the variance is 62.30 which is within the range of required variance 1oo pounds per square inch (PSI).
+Similarly if we look at the another table that has individual lot summary we can see that the variance of lot1 and lot2 are both less than 100 but the variance of lot3(170.3) is more than 100.
+
 ## Deliverable 3
 ## T-Tests on Suspension Coils
 
