@@ -12,4 +12,4 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 ## T-Tests on Suspension Coils
 
 ## Deliverable 4
-## ## Study Design: MechaCar vs Competition
+## Study Design: MechaCar vs Competition
