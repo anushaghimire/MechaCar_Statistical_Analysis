@@ -35,7 +35,7 @@ H0 : All manufacturing lots and each lot individually are statistically differen
 
 Ha : All manufacturing lots and each lot individually are not statistically different from the population mean of 1,500 pounds per square inch.
 
-Our p-value (0.06) is above our significance level which is 0.05. Therefore, we do not have sufficient evidence to reject the null hypothesis and we can say that all manufacturing lots and individual lots are similar.
+Our p-value (0.06) is above our significance level which is 0.05. Therefore, we do not have sufficient evidence to reject the null hypothesis and we can say that all manufacturing lots and individual have similar population mean which is 1500 PSI.
 
 ### Briefly summarize your interpretation and findings for the t-test results
 - 
