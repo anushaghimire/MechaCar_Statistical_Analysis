@@ -30,8 +30,12 @@ Similarly if we look at the another table that has individual lot summary we can
 ## Deliverable 3
 ## T-Tests on Suspension Coils
 For this part I used t-test to test the following hypotheses:
+
 H0 : All manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
-Ha : all manufacturing lots and each lot individually are not statistically different from the population mean of 1,500 pounds per square inch.
+
+Ha : All manufacturing lots and each lot individually are not statistically different from the population mean of 1,500 pounds per square inch.
+
+Our p-value (0.06) is above our significance level which is 0.05. Therefore, we do not have sufficient evidence to reject the null hypothesis and we can say that all manufacturing lots and individual lots are similar.
 
 ### Briefly summarize your interpretation and findings for the t-test results
 - 
