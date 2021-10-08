@@ -22,6 +22,10 @@ The slope of the linear model is not zero because the p value is much less than 
 
 ## Deliverable 2
 ## Summary Statistics on Suspension Coils
+For this part I used t-test to test the following hypotheses:
+H0 : All manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+Ha : all manufacturing lots and each lot individually are not statistically different from the population mean of 1,500 pounds per square inch.
+
 
 **The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
 According to the statistical summary table for all manufacturing lots we can see that the variance is 62.30 which is within the range of required variance 100 pounds per square inch (PSI). The overall lot data meets the design specifications.
