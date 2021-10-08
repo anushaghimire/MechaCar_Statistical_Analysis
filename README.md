@@ -31,6 +31,11 @@ Similarly if we look at the another table that has individual lot summary we can
 ## T-Tests on Suspension Coils
 
 <img width="442" alt="Screen Shot 2021-10-07 at 6 14 09 PM" src="https://user-images.githubusercontent.com/85364095/136483115-7b7fbc0b-bff2-4e60-adfa-bb2bdbfa7bda.png">
+<img width="442" alt="Screen Shot 2021-10-07 at 6 16 40 PM" src="https://user-images.githubusercontent.com/85364095/136483318-6c1f5428-5889-40cd-b905-0b1b74c9abd9.png">
+
+<img width="442" alt="Screen Shot 2021-10-07 at 6 17 37 PM" src="https://user-images.githubusercontent.com/85364095/136483342-13587026-2191-4a88-b47a-1f4a99aa7e62.png">
+
+<img width="442" alt="Screen Shot 2021-10-07 at 6 17 48 PM" src="https://user-images.githubusercontent.com/85364095/136483331-08faeeea-f98b-4692-bb83-a7039b7f17d8.png">
 
 Our p-value (0.06) is above our significance level which is 0.05. Therefore, we do not have sufficient evidence to reject the null hypothesis and we can say that all manufacturing lots and individual have similar population mean which is 1500 PSI.
 
