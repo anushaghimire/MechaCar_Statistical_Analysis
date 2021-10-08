@@ -33,4 +33,4 @@ Similarly if we look at the another table that has individual lot summary we can
 - 
 
 ## Deliverable 4
-## ## Study Design: MechaCar vs Competition
+## Study Design: MechaCar vs Competition
