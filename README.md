@@ -55,6 +55,7 @@ Lot 3 does not meet the design specifications for manufacturing.
 As we can see on the image below the p-value is 1 which is way greater than 0.05. Therefore, we can not reject the null hypothesis and can say that Lot 1 is not statistically different from population mean of 1500.
 
 <img width="442" alt="Screen Shot 2021-10-07 at 6 16 40 PM" src="https://user-images.githubusercontent.com/85364095/136483318-6c1f5428-5889-40cd-b905-0b1b74c9abd9.png">
+
 - **t-test (Lot 2)**
 
 As we can see on the image below the p-value is 0.6 which is greater than 0.05. Therefore, we can not reject the null hypothesis and can say that Lot 2 is not statistically different from population mean of 1500.
