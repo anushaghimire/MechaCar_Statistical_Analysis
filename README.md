@@ -90,9 +90,12 @@ Ha: Lower initial vehicle costs of mechacar vs competitor car cost, does not res
 
 
 - What statistical test would you use to test the hypothesis? And why?
+
 I will use Two-Sample t-test because I am testing one independent variable (sales) and one dependent variable (initial car price).
 
 - What data is needed to run the statistical test?
+
+Sales records of the competitor fropm the last 2 years.
 
 
  
