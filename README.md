@@ -75,16 +75,28 @@ As we can see on the image below the p-value is 0.04 which is less than 0.05. Th
 
 ## Deliverable 4
 ## Study Design: MechaCar vs Competition
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
+
+//What metric or metrics are you going to test?( define variables ) 
+
+To see how the MechaCar performs in terms of sales against the competition, we can look at the initial cost of the vechicle. Let's assume more consumer interest results in more sales, as interest can not be quantified, but sales are quantifiable number. So, to increase sales, which is the outcome(independent variable), we want based on our changes in dependent variables which we can fix the initial cost we can sell the car. 
+For statical study, we need a meaningful data collection frequency. Lets say we change the Mechacar initial price various months (promotions, holidays and such) and expect competior to do the same, so, we get sales figure for every month for MechaCar vs competition as a function of initial car price.
+
+
 What is the null hypothesis or alternative hypothesis?
+
+H0: Lower initial vehicle costs of mechacar vs competitor car cost, results in higher sales/month. 
+Ha: Lower initial vehicle costs of mechacar vs competitor car cost, does not results in higher sales/month. 
+
+
+
 What statistical test would you use to test the hypothesis? And why?
+I will use Two-Sample t-test
+
 What data is needed to run the statistical test?
 
+Statistical test used: The 
 
-
-
+Data needed: 
 
 
 
