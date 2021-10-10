@@ -12,6 +12,9 @@ The purpose of the study is to help Jeremy and the data analytics team do the fo
 
 ## Linear Regression to Predict MPG
 
+<img width="823" alt="linearregression" src="https://user-images.githubusercontent.com/85364095/136715238-7074d904-f746-4baf-b03f-dfcab8163050.png">
+
+
 ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 According to the p values from linear regression vehicle length and ground clearance provided the non-random amount of variance to the mpg values.
